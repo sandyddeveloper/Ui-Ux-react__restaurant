@@ -13,7 +13,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_about">
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pharetra adipiscing ultrices vulputate posuere tristique. In sed odio nec aliquet eu proin mauris et.</p>
+        <p className="p__opensans">Welcome to our restaurant, where culinary excellence meets exceptional ambiance. Delight in our expertly crafted dishes, made from the freshest ingredients. Enjoy a warm and inviting atmosphere perfect for any occasion. Join us for an unforgettable dining experience..</p>
         <button type="button" className="custom__button">Know More</button>
       </div>
 
@@ -24,7 +24,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Adipiscing tempus ullamcorper lobortis odio tellus arcu volutpat. Risus placerat morbi volutpat habitasse interdum mi aliquam In sed odio nec aliquet.</p>
+        <p className="p__opensans">Established in [Year], our restaurant began as a humble eatery with a vision to bring authentic and exquisite flavors to the community. Over the years, it has grown into a beloved dining destination, known for its dedication to culinary excellence and warm hospitality.</p>
         <button type="button" className="custom__button">Know More</button>
       </div>
     </div>
